@@ -137,7 +137,8 @@ form.addEventListener("submit", function(e){
         return;
     }
 
-    const whatsappNumber="91XXXXXXXXXX";
+    const whatsappNumber="918595395561"; // Replace with your WhatsApp number
+
 
     const text=`Hello Anita Tailoring Studio,
 
